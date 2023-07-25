@@ -4,6 +4,6 @@ This is a JavaScript program that creates a slide show with pagination and navig
 
 ## Features
 
--Slide navigation using pagination dots.
--Slide navigation using previous and next icons.
--Slide scrolling through dragging on desktop and touch events on mobile devices.
+- Slide navigation using pagination dots.
+- Slide navigation using previous and next icons.
+- Slide scrolling through dragging on desktop and touch events on mobile devices.
